@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.04bbd64a.css",
-    "main.js": "/static/js/main.8ffc733d.js",
-    "index.html": "/index.html",
-    "main.04bbd64a.css.map": "/static/css/main.04bbd64a.css.map",
-    "main.8ffc733d.js.map": "/static/js/main.8ffc733d.js.map"
+    "main.css": "/BasketballTraning/static/css/main.04bbd64a.css",
+    "main.js": "/BasketballTraning/static/js/main.8ffc733d.js",
+    "index.html": "/BasketballTraning/index.html",
+    "main.04bbd64a.css.map": "/BasketballTraning/static/css/main.04bbd64a.css.map",
+    "main.8ffc733d.js.map": "/BasketballTraning/static/js/main.8ffc733d.js.map"
   },
   "entrypoints": [
     "static/css/main.04bbd64a.css",
